@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Open Source SW.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open Source SW.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Open Source SW.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Open Source SW.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,13 +149,14 @@
   },
   "active": "e022bb387df568eb",
   "lastOpenFiles": [
-    "AI Focus Study NLP.md",
+    "Sync-Sense STAGE 1.md",
+    "README.md",
     "Open Source SW.md",
+    "AI Focus Study NLP.md",
     "Day in, Day out/2023-11-16.md",
     "Day in, Day out",
     "Day",
     "새 폴더",
-    "Sync-Sense STAGE 1.md",
     "Day in, Day out/2023-10-19.md",
     "Day in, Day out/2023-11-14.md"
   ]
