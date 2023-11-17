@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "baa3be270c9553ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI집중교육 팀플 요약.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AI집중교육 팀플 요약.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AI집중교육 팀플 요약.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AI집중교육 팀플 요약.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e022bb387df568eb",
+  "active": "baa3be270c9553ba",
   "lastOpenFiles": [
-    "Sync-Sense STAGE 1.md",
     "README.md",
+    "AI집중교육 팀플 요약.md",
+    "Sync-Sense STAGE 1.md",
     "Open Source SW.md",
     "AI Focus Study NLP.md",
     "Day in, Day out/2023-11-16.md",
